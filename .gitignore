@@ -1,0 +1,13 @@
+node_modules/
+dist/
+public/wasm/
+.claude/
+.tmp-*
+*.log
+*.tsbuildinfo
+/Prompt and I.Plan/answer_docs.py
+/Prompt and I.Plan/extracted.txt
+/Prompt and I.Plan/HANDOFF-C.md
+/Prompt and I.Plan/I.Queue.md
+/Prompt and I.Plan/I.Status.md
+/Prompt and I.Plan/prompt_present.md
